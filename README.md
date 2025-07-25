@@ -1,4 +1,4 @@
-# AI-Chatbot2-by-Samiksha
+# AI-Chatbot2-by-Samiksha (Using ChatGPT & Google Sheets)
 
 # 🤖 AI-Powered Chatbot Using ChatGPT & n8n
 
